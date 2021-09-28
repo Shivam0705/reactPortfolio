@@ -75,7 +75,7 @@ function Resume() {
               date="2015 - 2016"
               content={[" C.B.S.E BOARD  "]}
             />
-            <h3 className="resume-title">Achivements and Certifications</h3>
+            <h3 className="resume-title">Achievements and Certifications</h3>
             <Resumecontent
               title=""
               content={[
